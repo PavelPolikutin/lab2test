@@ -10,7 +10,7 @@ namespace lab2test
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("test");
+            Console.WriteLine("test is successful");
         }
     }
 }
